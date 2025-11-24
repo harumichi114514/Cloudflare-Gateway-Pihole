@@ -70,3 +70,55 @@ resolver.mi.xiaomi.com
 resolver.msg.xiaomi.net
 static.dns.qiyipic.iqiyi.com
 v6-data.video.dns.iqiyi.com
+
+# ========================================
+# 字节跳动 (ByteDance) 追踪和广告域名
+# 包括：抖音、今日头条、番茄小说等
+# 添加时间: 2025-11-24
+# ========================================
+
+# SDK 和监控服务
+zlink.ugsdk.cn
+mon.toutiaocloud.net
+mon.toutiaocloud.com
+
+# ByteGecko CDN (资源分发和追踪)
+lf-normal-gr-sourcecdn.bytegecko.com
+lf-webcast-gr-sourcecdn.bytegecko.com
+
+# 抖音 (Douyin) 相关
+p3-developer.bytemaimg.com
+webcast-open.douyin.com
+p11-webcast-sign.douyinpic.com
+p3-webcast-sign.douyinpic.com
+
+# 番茄小说 (FQNovel) 日志和监控
+log3-applog.fqnovel.com
+log5-applog.fqnovel.com
+mon11-misc-lq.fqnovel.com
+mon11-misc.fqnovel.com
+mon3-misc.fqnovel.com
+rtlog3-applog.fqnovel.com
+rtlog5-applog.fqnovel.com
+
+# SNSSDK (字节跳动 SDK)
+effect.snssdk.com
+i.snssdk.com
+is-lq.snssdk.com
+is.snssdk.com
+security.snssdk.com
+vas.snssdk.com
+
+# ZijieAPI (字节跳动 API 服务)
+abtest3-misc.zijieapi.com
+ads3-normal.zijieapi.com
+ads5-normal.zijieapi.com
+feedback-c.zijieapi.com
+gecko3.zijieapi.com
+gecko5.zijieapi.com
+ma.zijieapi.com
+minigame3-normal.zijieapi.com
+minigame5-normal.zijieapi.com
+mssdk.zijieapi.com
+timon.zijieapi.com
+vcs.zijieapi.com
