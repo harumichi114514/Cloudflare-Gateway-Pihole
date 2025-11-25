@@ -188,3 +188,32 @@ minigame5-normal.zijieapi.com
 mssdk.zijieapi.com
 timon.zijieapi.com
 vcs.zijieapi.com
+
+# ========================================
+# 网易 (NetEase) 广告、追踪和其他服务
+# ========================================
+iadmusicmat.music.126.net
+ipv4.music.163.com
+ipv6.music.163.com
+lbs.netease.im
+netapm.music.163.com
+nstool.netease.com
+
+# ========================================
+# 腾讯 (Tencent) 广告、追踪和其他服务
+# ========================================
+ad.tencentmusic.com
+ipv6.kg.qq.com
+tmeadbak.y.qq.com
+ugcup.music.qq.com
+wnsmusic.qq.com
+
+# ========================================
+# 阿里 (Alibaba) / 淘宝 相关
+# ========================================
+wcp.taobao.com
+
+# ========================================
+# 其他服务 (P2P/CDN 等)
+# ========================================
+natdetection.onethingpcs.com
